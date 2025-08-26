@@ -1,0 +1,6 @@
+Enter two numbers: 
+Results:
+Addition: 0.00 + 0.00 = 0.00
+Subtraction: 0.00 - 0.00 = 0.00
+Multiplication: 0.00 * 0.00 = 0.00
+Division: Not possible (division by zero)
